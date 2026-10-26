@@ -1,7 +1,7 @@
 [project]
 name = "patch-what-matters"
 version = "0.1.0"
-description = "Add your description here"
+description = "Does CVSS tell us what to patch? CVSS v3 scores vs CISA KEV exploitation for NVD CVEs published 2022-2024."
 readme = "README.md"
 authors = [
     { name = "Nicola García Echavarría", email = "168017368+NicolaGarciaE@users.noreply.github.com" }
