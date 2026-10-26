@@ -247,3 +247,11 @@ for PowerShell on Windows.
    redrawn. To redraw them with your data, set `OVERWRITE_FIGURES = True` in the notebook's first code cell.
 
 Every script ends with automatic checks and a summary of counts, and stops if a check fails.
+
+## How this was built
+
+The code was written with Claude Code (Anthropic) under my direction. I defined the question, the data rules and the metrics, reviewed every script and result, and checked every number in this README against the notebook.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
