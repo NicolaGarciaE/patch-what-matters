@@ -10,3 +10,4 @@ wheels/
 .venv
 .env
 data/raw/
+data/processed/*.duckdb
